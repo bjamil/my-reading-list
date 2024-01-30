@@ -68,7 +68,8 @@ ML Reading List
 ## Quantization, Model Compression & Optimization
 | Read Date | Resource | Notes | 
 |---|---|---|
-| | [Permute, Quantize, and Fine-tune: Efficient Compression of Neural Networks](https://arxiv.org/abs/2010.15703) ||
+||[Permute, Quantize, and Fine-tune: Efficient Compression of Neural Networks](https://arxiv.org/abs/2010.15703) ||
+|2024-01-30 |[How We Scaled Bert To Serve 1+ Billion Daily Requests on CPUs](https://medium.com/@quocnle/how-we-scaled-bert-to-serve-1-billion-daily-requests-on-cpus-d99be090db26) (Roblox) |Interesting. Always nice to read actual case studies. I'd like to see how ONNX compares to their benchmarks.|
 
 
 ## Blog Posts I Liked
