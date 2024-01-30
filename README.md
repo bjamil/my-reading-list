@@ -55,7 +55,7 @@ ML Reading List
 |[Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683)||||
 |[Extracting Structured Data from Templatic Documents](https://blog.research.google/2020/06/extracting-structured-data-from.html)||2020-06-12||
 
-# Bloom Filters
+## Bloom Filters
 | Read Date | Resource | Notes | 
 | --- | --- | --- | 
 | 2024-01-30 | [Bloom Filters by ByteByteGo](https://www.youtube.com/watch?v=V3pzxngeLqw) | Gives a decent intuition |
