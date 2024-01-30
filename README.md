@@ -42,6 +42,7 @@ ML Reading List
 |[Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556)||2022-03-29||
 |[GLaM: Efficient Scaling of Language Models with Mixture-of-Experts](https://arxiv.org/abs/2112.06905)||2021-12-13||
 
+
 ## Non-LLMs
 | Paper | Read Date | Last Revise Date|Notes|
 | --- | --- |---|---|
@@ -52,7 +53,35 @@ ML Reading List
 |[Learning to Generate Reviews and Discovering Sentiment](https://arxiv.org/abs/1704.01444)||2017-04-06||
 |[WikiGraphs: A Wikipedia Text - Knowledge Graph Paired Dataset](https://arxiv.org/abs/2107.09556)||2021-07-20||
 |[Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683)||||
+|[Extracting Structured Data from Templatic Documents](https://blog.research.google/2020/06/extracting-structured-data-from.html)||2020-06-12||
 
+# Bloom Filters
+| Read Date | Resource | Notes | 
+| --- | --- | --- | 
+| 2024-01-30 | [Bloom Filters by ByteByteGo](https://www.youtube.com/watch?v=V3pzxngeLqw) | Gives a decent intuition |
+| 2024-01-30 | [What are Bloom Filters?](https://www.youtube.com/watch?v=kfFacplFY4Y) | Not the best example. prev vid was better |
+| 2024-01-30 | [Advancing Spark - Bloom Filter Indexes in Databricks Delta](https://www.youtube.com/watch?v=gaPQt0oPKLI) | Interesting, but more about delta than spark, as the title implies | 
+| | [The Case for Learned Index Structures](https://arxiv.org/abs/1712.01208)||
+|| [Optimizing Learned Bloom Filters by Sandwiching](https://arxiv.org/abs/1803.01474)||
+
+
+## Quantization, Model Compression & Optimization
+| Read Date | Resource | Notes | 
+|---|---|---|
+| | [Permute, Quantize, and Fine-tune: Efficient Compression of Neural Networks](https://arxiv.org/abs/2010.15703) ||
+
+
+## Blog Posts I Liked
+| Read Date | Post | Notes |
+| ---| --- | --- |
+| 2024-01-30 |[How we reduced our text similarity runtime by 99.96% (Microsoft)](https://medium.com/data-science-at-microsoft/how-we-reduced-our-text-similarity-runtime-by-99-96-e8e4b4426b35) | I skimmed through it. Seems interesting and worth a reread |
+| 2024-01-30 |[How Roblox Reduces Spark Join Query Costs With Machine Learning Optimized Bloom Filters](https://blog.roblox.com/2023/11/roblox-reduces-spark-join-query-costs-machine-learning-optimized-bloom-filters/)| I wonder if this can be applied to other use cases too and not just fact/dim tables. Interesting read. | 
+
+
+## Blog Posts to Read
+| Post | Notes | 
+| --- | --- | 
+| [Using machine learning to index text from billions of images](https://dropbox.tech/machine-learning/using-machine-learning-to-index-text-from-billions-of-images) (Dropbox) | Curious abouth the OCR/PDF text extraction part here. Need some caffiene in me to read this. | 
 
 
 
