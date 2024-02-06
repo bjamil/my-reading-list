@@ -1,0 +1,1 @@
+These are the study notes I took while going through [Google's ML Crash Course](https://developers.google.com/machine-learning/crash-course)
