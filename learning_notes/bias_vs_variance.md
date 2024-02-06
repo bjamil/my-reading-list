@@ -13,9 +13,9 @@ Higher Bias/Lower Variance models tend to be simpler in complexity while lower b
 * High Bias = Underfit = model too simple
 * High Variance = Overfit = model too complex
 * Look at training vs dev set errors as an indicator of overfitting vs underfitting
-** Train set error low, dev set error high -> Overfitting to training set -> high variance
-** Train set error high, dev set error similarly high -> Underfitting to training set BUT generalizing well -> high bias 
-** Train set error high, dev set error much higher -> Underfitting to training set, but also overfitting to it -> high bias, high variance
+	* Train set error low, dev set error high -> Overfitting to training set -> high variance
+	* Train set error high, dev set error similarly high -> Underfitting to training set BUT generalizing well -> high bias 
+	* Train set error high, dev set error much higher -> Underfitting to training set, but also overfitting to it -> high bias, high variance
 * Train set error indicates bias
 * Dev set error indicates variance
 
